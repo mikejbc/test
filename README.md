@@ -1,5 +1,5 @@
 # Listy dla blokera DNS
 Dostępne listy:
 
-* gambling-sites
+* [gambling-sites.txt](https://github.com/mikejbc/test/blob/master/gambling-sites.txt)
 * porn-sites
