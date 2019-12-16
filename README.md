@@ -2,4 +2,4 @@
 Dostępne listy:
 
 * [gambling-sites.txt](https://github.com/mikejbc/test/blob/master/gambling-sites.txt)
-* [porn-sites.txt](https://github.com/mikejbc/test/blob/master/porn-blocker-test.txt)
+* [porn-blocker-test.txt](https://github.com/mikejbc/test/blob/master/porn-blocker-test.txt)
