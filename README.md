@@ -9,5 +9,5 @@
 ## Źródło list
 
 ```{html}
-https://github.com/LukeSmithxyz/etc
+(https://github.com/LukeSmithxyz/etc)
 ```
