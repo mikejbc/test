@@ -1,8 +1,11 @@
 # Portale Plotkarskie
 
 0.0.0.0 pudelek.pl
+0.0.0.0 www.pudelek.pl
 0.0.0.0 plejada.pl
+0.0.0.0 www.plejada.pl
 0.0.0.0 plotek.pl
+0.0.0.0 www.plotek.pl
 0.0.0.0 pomponik.pl
 0.0.0.0 kozaczek.pl
 0.0.0.0 party.pl
