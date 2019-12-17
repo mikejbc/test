@@ -41,6 +41,10 @@
 0.0.0.0 interia.pl
 0.0.0.0 www.interia.pl
 0.0.0.0 reklama.wp.pl
+0.0.0.0 tv.wp.pl
+0.0.0.0 wiadomosci.wp.pl
+0.0.0.0 profil.wp.pl
+0.0.0.0 onas.wp.pl
 
 # Szpiedzy
 
@@ -48,3 +52,8 @@
 0.0.0.0 www.yandex.ru
 0.0.0.0 baidu.com
 0.0.0.0 www.baidu.com
+
+# Sklepy z badziewiem
+
+0.0.0.0 domodi.pl
+0.0.0.0 www.domodi.pl
