@@ -37,3 +37,11 @@
 0.0.0.0 www.wp.pl
 0.0.0.0 interia.pl
 0.0.0.0 www.interia.pl
+0.0.0.0 reklama.wp.pl
+0.0.0.0 kafeteria.pl
+0.0.0.0 kosemtyki.kafeteria.pl
+0.0.0.0 onas.wp.pl
+0.0.0.0 yandex.ru
+0.0.0.0 www.yandex.ru
+0.0.0.0 baidu.com
+0.0.0.0 www.baidu.com
