@@ -7,19 +7,33 @@
 0.0.0.0 plotek.pl
 0.0.0.0 www.plotek.pl
 0.0.0.0 pomponik.pl
+0.0.0.0 www.pomponik.pl
 0.0.0.0 kozaczek.pl
+0.0.0.0 www.kozaczek.pl
 0.0.0.0 party.pl
+0.0.0.0 www.party.pl
 0.0.0.0 fakt.pl
+0.0.0.0 www.fakt.pl
 0.0.0.0 eska.pl
+0.0.0.0 www.eska.pl
 0.0.0.0 viva.pl
+0.0.0.0 www.viva.pl
 0.0.0.0 glamour.pl
+0.0.0.0 www.glamour.pl
 0.0.0.0 obcas.pl
+0.0.0.0 www.obcas.pl
 0.0.0.0 telemagazyn.pl
+0.0.0.0 www.telemagazyn.pl
 0.0.0.0 tvnstyle.pl
+0.0.0.0 www.tvnstyle.pl
 0.0.0.0 rmfmaxxx.pl
+0.0.0.0 www.rmfmaxxx.pl
 0.0.0.0 noizz.pl
+0.0.0.0 www.noizz.pl
 
 # Portale informacyjne
 
 0.0.0.0 wp.pl
+0.0.0.0 www.wp.pl
 0.0.0.0 interia.pl
+0.0.0.0 www.interia.pl
