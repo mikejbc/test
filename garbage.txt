@@ -33,6 +33,7 @@
 0.0.0.0 kafeteria.pl
 0.0.0.0 kosemtyki.kafeteria.pl
 0.0.0.0 onas.wp.pl
+0.0.0.0 magia.onet.pl
 
 # Portale informacyjne
 
