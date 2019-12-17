@@ -1,0 +1,3 @@
+# Portale Plotkarskie
+
+0.0.0.0 https://www.pudelek.pl/
