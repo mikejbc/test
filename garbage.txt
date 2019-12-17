@@ -15,3 +15,9 @@
 0.0.0.0 tvnstyle.pl
 0.0.0.0 rmfmaxxx.pl
 0.0.0.0 noizz.pl
+
+# Portale informacyjne
+
+0.0.0.0 onet.pl
+0.0.0.0 wp.pl
+0.0.0.0 
