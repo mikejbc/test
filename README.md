@@ -14,7 +14,7 @@ Update list z poziomu terminala
 pihole updateGravity
 ```
 
-Podgląd logu DNS na żywo
+Podgląd logów DNS na żywo
 
 ```{bash}
 pihole -t
