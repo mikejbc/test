@@ -46,6 +46,8 @@
 0.0.0.0 wiadomosci.wp.pl
 0.0.0.0 profil.wp.pl
 0.0.0.0 onas.wp.pl
+0.0.0.0 onet.pl
+0.0.0.0 www.onet.pl
 
 # Szpiedzy
 
