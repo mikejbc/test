@@ -60,3 +60,4 @@
 
 0.0.0.0 domodi.pl
 0.0.0.0 www.domodi.pl
+0.0.0.0 www.apple.pl
