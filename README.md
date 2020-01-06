@@ -34,6 +34,6 @@ pihole -q -adlist nazwa-domeny.com
 
 ## Źródło list
 
-```
+```{html}
 https://github.com/LukeSmithxyz/etc
 ```
