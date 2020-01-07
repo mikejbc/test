@@ -48,6 +48,9 @@
 0.0.0.0 onas.wp.pl
 0.0.0.0 onet.pl
 0.0.0.0 www.onet.pl
+0.0.0.0 niezalezna.pl
+0.0.0.0 www.niezalezna.pl
+0.0.0.0 m.niezalezna.pl
 
 # Szpiedzy
 
