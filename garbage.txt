@@ -58,6 +58,7 @@
 0.0.0.0 www.yandex.ru
 0.0.0.0 baidu.com
 0.0.0.0 www.baidu.com
+0.0.0.0 mobile4380.rowglsnil16.live
 
 # Sklepy z badziewiem
 
